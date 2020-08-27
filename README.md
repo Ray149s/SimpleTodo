@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 - understaning new (to me) classes/methode and syntax diffrences between Java in Android Studio vs. Java in Eclips.
+- uploding my project to githup, I would get a successfully created project 'Simple Todo' on GitHub, but initial commit failed:...
 
 ## License
 
